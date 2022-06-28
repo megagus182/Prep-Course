@@ -1,0 +1,23 @@
+Variables
+Son datos, en donde puedes almacenar tanto palabras, numeros, o datos buleanos
+pero se necesita darle nombre una vez, si se vuelve a ocupar el nombre de nuevo, se sobrepone el dato al primero
+
+String
+Es una cadena de letras, pueden ser palabras, o numeros, pero los numeros la computadora los tomara como si fueran texto
+
+Funciones
+Las funciones son parte de codigo, que puede ser utilizado varias veces sin la necesidad de volver a escribir todo de nuevo
+las funciones retornan siempre un valor, pero necesitaran de argumentos.
+en las funciones se pueden declarar variables, pero solo se pueden usar en las mismas funciones y no fueras de ellas.
+mas sin embargo las variables de afuera, se pueden usar dentro de las funciones.
+
+Return, significa retornar, para regresar el valor deseado, cuando se ocupa en una funcion regresa un valor y termina la funcion, por lo que si habia codigo mas abajo ya no lo toma en cuenta.
+
+Declaraciones IF
+las declaraciones if, significa "si", y es para comparar 2 o 3 cosas, primero evaluando una "pregunta en forma de codigo"
+como por ejemplo
+si 2 es mayor que 1, entonces devuelve "verdadero
+si no devuelve falso
+
+Valores booleanos (true, false)
+Solo devuelven dos valores, puede ser verdadero o falso, asi de simple
